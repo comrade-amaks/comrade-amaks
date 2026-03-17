@@ -11,7 +11,7 @@
 <h3 align="center">
   <samp>
     &gt; Hey There!, I am
-    <a target="_blank" href="https://zang3tsu88.github.io/">
+    <a target="_blank" href="https://comrade-amaks.github.io/">
       <b>Andrei Maksimenia</b>
     </a>
   </samp>
@@ -46,14 +46,14 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://t.me/maksimenia_a" target="_blank">
+  <a href="https://t.me/comrade_amaks" target="_blank">
     <img
       src="https://img.shields.io/badge/Telegram-24a2df?style=for-the-badge&logo=telegram&logoColor=white"
       alt="telegram"
       style="margin-bottom: 5px"
     />
   </a>
-  <a href="https://github.com/zang3tsu88" target="_blank">
+  <a href="https://github.com/comrade-amaks" target="_blank">
     <img
       src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"
       alt="github"
